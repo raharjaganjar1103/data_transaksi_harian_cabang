@@ -33,7 +33,11 @@ Hal ini memperlambat pekerjaan audit/analitik dan meningkatkan risiko human erro
 ## 🛠 Tech Stack
 - Python  
 - Library utama: pandas  
-- Dependency lain: lihat `requirements.txt`
+- Dependency lain:
+    - numpy
+    - streamlit
+    - openpyxl
+    - xlsxwriter
 
 ---
 
