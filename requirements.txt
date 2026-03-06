@@ -1,7 +1,7 @@
-pandas==2.2.2
-numpy==1.26.4
-streamlit==1.33.0
-openpyxl==3.1.5
-xlsxwriter==3.2.0
-pyarrow==15.0.2
-altair<6
+streamlit
+pandas
+numpy
+openpyxl
+xlsxwriter
+pyarrow>=12.0.0
+pandas>=2.1.0
